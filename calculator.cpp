@@ -31,7 +31,7 @@ return 0; // TELLS THE SYSTEM THAT EVERYTHING WORKED SUCCESSFUL -> PROGRAM FINIS
   
 }
 
-/*  COPYLEFT
+/*  --- COPYLEFT ---
   
     AUTHOR: 
     Jan-Lukas Knoch
