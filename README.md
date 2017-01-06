@@ -15,4 +15,4 @@ SYMBOL:
     
     
     
-Example input can be 45+5
+Example input can be: 45+5
